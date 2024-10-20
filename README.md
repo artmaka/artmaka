@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm artmaka</h1>
-<h3 align="center">A freelance developer and artist</h3>
+<h3 align="center">A freelance developer and digital artist</h3>
 
 <p align="left"> <a href="https://twitter.com/artmakadev" target="blank"><img src="https://img.shields.io/twitter/follow/artmakadev?logo=twitter&style=for-the-badge" alt="artmakadev" /></a> </p>
 
