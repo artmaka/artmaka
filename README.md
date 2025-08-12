@@ -3,11 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/artmakadev" target="blank"><img src="https://img.shields.io/twitter/follow/artmakadev?logo=twitter&style=for-the-badge" alt="artmakadev" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [soon](soon)
-
 - 📫 How to reach me **vercher.work@gmail.com**
-
-- ⚡ Fun fact **I love Minecraft**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
