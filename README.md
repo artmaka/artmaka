@@ -1,10 +1,7 @@
 <h1 align="center">I'm artmaka</h1>
 <h3 align="center">Developer and digital artist</h3>
 
-<p align="left"> <a href="https://twitter.com/artmakadev" target="blank"><img src="https://img.shields.io/twitter/follow/artmakadev?logo=twitter&style=for-the-badge" alt="artmakadev" /></a> </p>
-
 - 📫 How to reach me **vercher.work@gmail.com**
-
 
 <h3 align="left">Languages and Tools:</h3> 
 <p align="left"> 
